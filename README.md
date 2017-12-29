@@ -204,7 +204,7 @@ It's all good yo! Learning is the prize in this game.
 ``git log --pretty=format:"%h``
 * Exactly how you want the output using placeholders ( use git help log )
 
-``Git log --until [date]``
+``git log --until [date]``
 * Shows all commits up until  [date]
 
 ## Removal
