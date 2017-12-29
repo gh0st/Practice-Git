@@ -15,19 +15,15 @@
 Welcome to my practice git repository where you can eff up as much as you'd like plus work with a real, living, breathing person on the other side.
 Here we learn all things git. Feel free to send me Pull Requests just to discover what it's like when a Repo Master asks you
 
-<blockquote>
-"Can you squash your commits for us"
-</blockquote>
+> "Can you squash your commits for us"
 
 and you're all like...
 
-<blockquote>
-"How the hell do I do that?"
-</blockquote>
+> "How the hell do I do that?"
 
 This is where we make those mistakes ... so don't be scared :)
 
-##Instructions
+## Instructions
 
 Fork this repo and send me a Pull Request with anything from Grandma Peggy's Crumbled Oatmeal Cookie Recipe to your favorite Sublime Text 2 preferences.
 It's all good yo! Learning is the prize in this game.
